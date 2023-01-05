@@ -1,0 +1,10 @@
+Name,Value
+max_epochs,500
+batch_size,16
+learning_rate,0.001
+num_layers,1
+num_units,256
+lamda,0.0005
+beta1,0.9
+beta2,0.999
+baseline_coverage,0.92
